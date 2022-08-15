@@ -1,0 +1,5 @@
+package-look.json
+node_modules/
+dist/
+*.log
+.env
